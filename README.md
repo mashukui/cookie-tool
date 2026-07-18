@@ -1,4 +1,4 @@
-# cookie-tool
+# cookie-exporter
 
 一个简单的Cookie获取辅助工具。程序会打开平台登录页，待用户手动完成登录后，将当前会话的Cookie导出到本地 `cookie.txt` 文件。
 
